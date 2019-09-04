@@ -13003,11 +13003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skrbnik\\source\\repos\\SkolaMvc\\SkolaMvc\\SkolaMvc.csproj",
+      "projectUniqueName": "C:\\Users\\Skrbnik\\Documents\\GitHub\\SkolaMvc\\SkolaMvc\\SkolaMvc.csproj",
       "projectName": "SkolaMvc",
-      "projectPath": "C:\\Users\\Skrbnik\\source\\repos\\SkolaMvc\\SkolaMvc\\SkolaMvc.csproj",
+      "projectPath": "C:\\Users\\Skrbnik\\Documents\\GitHub\\SkolaMvc\\SkolaMvc\\SkolaMvc.csproj",
       "packagesPath": "C:\\Users\\Skrbnik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skrbnik\\source\\repos\\SkolaMvc\\SkolaMvc\\obj\\",
+      "outputPath": "C:\\Users\\Skrbnik\\Documents\\GitHub\\SkolaMvc\\SkolaMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
